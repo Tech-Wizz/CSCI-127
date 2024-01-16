@@ -1,0 +1,3 @@
+2#
+don't repeate things
+3#test solution on positve negative 
